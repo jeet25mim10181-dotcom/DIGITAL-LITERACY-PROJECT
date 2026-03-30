@@ -18,7 +18,7 @@ Immediate Reporting On National Cyber Crime Portal — https://cybercrime.gov.in
 
 Contact the Cyber Crime Helpline : 1930
 
-Project Report (100–150 words)
+Project Report 
 
 The most surprising thing to me, when researching cybercrime though, was how even simple tricks — for instance sending a QR code or asking for a
 UPI PIN — can lead to people incurring an instant loss. I wasn’t aware that so many people still confuse “receiving” with “sending” money in UPI transactions,
